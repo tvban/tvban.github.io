@@ -1,4 +1,4 @@
-# tvban.github.io/TVBAN
+# https://tvban.github.io/TVBAN
 
 
 ![img](https://github.com/tvban/tvban.github.io/blob/master/wizard/imagenes/tbuild.png?raw=true)
